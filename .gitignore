@@ -1,0 +1,44 @@
+# Ignore environment folders
+Fruits/Apple_Disease_Classification/env/
+Fruits/Grapes_Disease_Classification/env/
+Fruits/Peach_Disease_Classification/env/
+Vegetables/Potato_Disease_Classification/env/
+Vegetables/Tomato_Disease_Classification/env/
+Vegetables/Pepper_Disease_Classification/env/
+Vegetables/Corn_Disease_Classification/env/
+
+# Ignore Training PlantVillage folders
+Fruits/Apple_Disease_Classification/Training/PlantVillage/
+Fruits/Grapes_Disease_Classification/Training/PlantVillage/
+Fruits/Peach_Disease_Classification/Training/PlantVillage/
+Vegetables/Potato_Disease_Classification/Training/PlantVillage/
+Vegetables/Tomato_Disease_Classification/Training/PlantVillage/
+Vegetables/Pepper_Disease_Classification/Training/PlantVillage/
+Vegetables/Corn_Disease_Classification/Training/PlantVillage/
+
+Ignore models folders and .h5 files
+Fruits/Apple_Disease_Classification/models/
+Fruits/Grapes_Disease_Classification/models/
+Fruits/Peach_Disease_Classification/models/
+Vegetables/Potato_Disease_Classification/models/
+Vegetables/Tomato_Disease_Classification/models/
+Vegetables/Pepper_Disease_Classification/models/
+Vegetables/Corn_Disease_Classification/models/
+
+Fruits/Apple_Disease_Classification/*.h5
+Fruits/Grapes_Disease_Classification/*.h5
+Fruits/Peach_Disease_Classification/*.h5
+Vegetables/Potato_Disease_Classification/*.h5
+Vegetables/Tomato_Disease_Classification/*.h5
+Vegetables/Pepper_Disease_Classification/*.h5
+Vegetables/Corn_Disease_Classification/*.h5
+
+# ignore requirements.txt
+Fruits/Apple_Disease_Classification/requirements.txt
+Fruits/Grapes_Disease_Classification/requirements.txt
+Fruits/Peach_Disease_Classification/requirements.txt
+Vegetables/Potato_Disease_Classification/requirements.txt
+Vegetables/Tomato_Disease_Classification/requirements.txt
+Vegetables/Pepper_Disease_Classification/requirements.txt
+Vegetables/Corn_Disease_Classification/requirements.txt
+
