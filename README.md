@@ -52,24 +52,6 @@ model = models.Sequential([
 
 ```
 
-```
-_________________________________________________________________
-Layer (type)                 Output Shape              Param #   
-=================================================================
-conv2d_1 (Conv2D)            (None, IMAGE_SIZE-2, IMAGE_SIZE-2, 32)   896       
-max_pooling2d_1 (MaxPooling2D)(None, IMAGE_SIZE//2, IMAGE_SIZE//2, 32) 0         
-...  
-flatten_1 (Flatten)          (None, ...)               ...      
-dense_1 (Dense)              (None, 64)                ...      
-dense_2 (Dense)              (None, 4)                 ...      
-=================================================================
-Total params: xxxxxxxx
-Trainable params: xxxxxxxx
-Non-trainable params: 0
-_________________________________________________________________
-
-```
-
 ## Dataset
 
 The dataset used in this project is the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset) provided by Abdallah Ali on Kaggle.
